@@ -1,0 +1,7 @@
+{
+  "UiPath.CV.Activities.GenericCV.DelayBeforeMS": "300",
+  "UiPath.CV.Activities.GenericCV.DelayAfterMS": "0",
+  "UiPath.CV.Activities.GenericCV.TimeoutMS": "30000",
+  "UiPath.CV.Activities.CvScope.Server": "https://cv.uipath.com",
+  "UiPath.CV.Activities.CvScope.ApiKey": "MX7behPE/XnsN1Mc7nj4pO5u8zUBP5/iYwgN4mXuc/VKVp2wWajXtjerH3IxQ6ZYTRMEyxRM3aDMwh/yNGEhlw=="
+}
